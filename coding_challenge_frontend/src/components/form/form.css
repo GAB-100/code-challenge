@@ -1,0 +1,76 @@
+.container-wraper h2 {
+  background-color: #5d6d7e;
+  padding: 1rem;
+}
+.container-wraper button {
+  background-color: #5d6d7e;
+  padding: 0.7rem;
+  margin-top: 2rem;
+  width: 12%;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+}
+.form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.form-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+.input {
+  width: 70%;
+  padding: 0.5rem;
+}
+.input2 {
+  width: 70%;
+  padding: 0.5rem;
+  margin-left: 11rem;
+}
+.formd {
+  display: flex;
+  flex-direction: column;
+  /* gap: 3rem; */
+  width: 80%;
+  /* align-items: center; */
+}
+.formd2 {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  width: 80%;
+  align-items: center;
+}
+
+.form-select {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-top: 4rem;
+  align-items: center;
+}
+.form-select select {
+  padding: 0.5rem;
+  width: 30%;
+}
+.error {
+  color: red;
+  margin-top: 0.5;
+}
+.input-checkbox-wrapeer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-left: 11rem;
+}
+
+.label {
+  display: flex;
+  gap: 1rem;
+}
+.quastion-notify {
+  margin: 1rem 0 0.5rem 0;
+}
